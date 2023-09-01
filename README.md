@@ -21,4 +21,4 @@ Our model has successfully learned the copulas and density levels. By observing 
 ![Alt Text](https://github.com/c1adrien/MICE/blob/main/results%20paper/copulas_learned.png)
 
 
-Feel free to explore our code and documentation to learn more about this groundbreaking approach and its practical implications.
+Feel free to explore our code and documentation to learn more about this approach and its practical implications.
