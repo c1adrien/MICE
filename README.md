@@ -15,8 +15,10 @@ We conducted a comparison between two models - the first model, MICE, trains COD
 ![Alt Text](https://github.com/c1adrien/MICE/blob/main/results%20paper/model.png)
 
 
+Our model has successfully learned the copulas and density levels. By observing the imperfections, we can have a good idea of the quality of our estimation and anticipate the model’s performance. Then it is easy to compute mutual information coefficient. 
 
-![Alt Text](https://github.com/c1adrien/LSH_for_neural_networks_validation/blob/main/LSH/results/second%20pattern.png)
+
+![Alt Text](https://github.com/c1adrien/MICE/blob/main/results%20paper/copulas_learned.png)
 
 
 Feel free to explore our code and documentation to learn more about this groundbreaking approach and its practical implications.
